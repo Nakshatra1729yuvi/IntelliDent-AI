@@ -1,0 +1,48 @@
+img1:
+Resolution: (500, 500)
+Mean Intensity: 211.696788
+
+img2:
+Resolution: (500, 500)
+Mean Intensity: 163.287612
+
+img3:
+Resolution: (500, 500)
+Mean Intensity: 219.894968
+
+img4:
+Resolution: (500, 500)
+Mean Intensity: 148.321448
+
+img5:
+Resolution: (500, 500)
+Mean Intensity: 93.987472
+
+img6:
+Resolution: (500, 500)
+Mean Intensity: 190.143408
+
+img7:
+Resolution: (500, 500)
+Mean Intensity: 186.652004
+
+img8:
+Resolution: (500, 500)
+Mean Intensity: 138.630116
+
+img9:
+Resolution: (500, 500)
+Mean Intensity: 177.187872
+
+img10:
+Resolution: (500, 500)
+Mean Intensity: 174.167352
+
+img11:
+Resolution: (500, 500)
+Mean Intensity: 117.31762
+
+img12:
+Resolution: (500, 500)
+Mean Intensity: 77.724568
+
