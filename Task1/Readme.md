@@ -1,0 +1,1 @@
+This script loads multiple images, converts them to grayscale, and resizes them to a fixed resolution of 500×500. It computes basic statistics such as image resolution and mean pixel intensity for each image. The processed images are saved, and the statistics are both printed to the console and written to a text file for record-keeping.
