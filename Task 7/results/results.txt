@@ -1,0 +1,5 @@
+Accuracy: 1.0
+Confusion Matrix:
+[[2 0 0]
+ [0 2 0]
+ [0 0 2]]
