@@ -1,0 +1,10 @@
+Image 1: Blurriness - not blurry, Brightness - bright, Contrast - high, Quality - good quality
+Image 2: Blurriness - not blurry, Brightness - not bright, Contrast - high, Quality - poor quality
+Image 3: Blurriness - not blurry, Brightness - not bright, Contrast - high, Quality - poor quality
+Image 4: Blurriness - not blurry, Brightness - not bright, Contrast - low, Quality - poor quality
+Image 5: Blurriness - blurry, Brightness - not bright, Contrast - low, Quality - poor quality
+Image 6: Blurriness - blurry, Brightness - bright, Contrast - low, Quality - poor quality
+Image 7: Blurriness - blurry, Brightness - not bright, Contrast - low, Quality - poor quality
+Image 8: Blurriness - not blurry, Brightness - bright, Contrast - high, Quality - good quality
+Image 9: Blurriness - not blurry, Brightness - not bright, Contrast - high, Quality - poor quality
+Image 10: Blurriness - blurry, Brightness - bright, Contrast - low, Quality - poor quality
